@@ -25,6 +25,7 @@ namespace Rechnertest
         {
             y = Math.Cos(x);
         }
+        //Lol
         
         [When(@"the tangens of number")]
         public void WhenTheTangensOfNumber()
